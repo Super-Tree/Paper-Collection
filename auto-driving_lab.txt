@@ -17,3 +17,5 @@
 8. [法国国家资讯与自动化研究所下的无人驾驶团队](https://team.inria.fr/rits/)
 
 9. [柏林自由大学无人驾驶团队](http://autonomos-labs.com/)
+
+收录于2017年5月
